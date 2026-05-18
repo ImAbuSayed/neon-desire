@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/neon-desire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Neon Desire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neon-desire/) |
+| **Get License** | [Get License For Neon Desire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neon-desire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Genre Fusion, Mood, Music Style, Vocal Style, Production Style, Visual Aesthetic:
+> Urban Desi Global Fusion, Luxury Emotional Club Energy, Punjabi Trap Garage Reggaeton Fusion, Seductive Confident Male R&B Rap, Cinematic Dark Massive Production, Neon Nightlife Luxury Seduction
+> Teri nigaah da nasha, te hosh meri gumm
+> Akhiyan mila ke ajj, mainu kargi ae tunn
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
