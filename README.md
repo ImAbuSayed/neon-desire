@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/neon-desire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Neon Desire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neon-desire/) |
+| **Get License** | [Commercial Licensing for Neon Desire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neon-desire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f4753822703ed8fc24a5dc3ebee7b8977ae7a624f635e2e406e7faf262ac6875` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
